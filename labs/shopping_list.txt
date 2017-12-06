@@ -1,0 +1,4 @@
+fruits: apples, bananas, oranges
+dairy: yogurt, milk
+desserts: chocolate cake
+cleaning: fantastic scrubbing bubbles, fabuloso

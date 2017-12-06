@@ -1,0 +1,5 @@
+I love python.
+Hello, world!
+Programming is FUN!
+Pack my box with five dozen liquor jugs!
+I hope I get a good grade!
